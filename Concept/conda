@@ -1,2 +1,0 @@
-#Create and activate an environment
-conda create --name snowflakes biopython
